@@ -1,2 +1,2 @@
-# Leetcode-Coding
+# Leetcode-Coding-Practice-Questions
 
