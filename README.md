@@ -1,2 +1,2 @@
-# Leetcode-Coding-Practice-Questions
+# DSA Practice Codes
 
